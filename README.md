@@ -1,4 +1,4 @@
-Here is the leetcode solution of the esay Array question in js.
+Here is the leetcode solution of the easy Array question in js.
 
 ---------------------------------------------------------------
 The question is like this:-
